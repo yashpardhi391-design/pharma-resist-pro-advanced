@@ -1,0 +1,6 @@
+{
+  "name": "Pharma Resist Pro",
+  "description": "AI-Powered Drug Resistance & Comparative Antimicrobial Analytics Platform",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
